@@ -1,0 +1,8 @@
+Model Information:
+* title:	Wedding Band
+* source:	https://sketchfab.com/3d-models/wedding-band-ccb6695295584942b586716cf42c6c34
+* author:	m.h.jewellerydesigner (https://sketchfab.com/m.h.jewellerydesigner)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
